@@ -24,6 +24,7 @@ public class EmpDAO {
 
 	public JdbcTemplate getJt() {
 		return jt;
+		
 	}
 
 	public void setJt(JdbcTemplate jt) {
