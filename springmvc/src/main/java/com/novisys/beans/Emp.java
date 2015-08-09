@@ -78,6 +78,7 @@ public class Emp implements Serializable {
 	}
 	public void setDept(Dept dept) {
 		this.dept = dept;
+		//djflsvjalskdg,laskfgjsalkfjlaskjlak
 	}
 	
 }
